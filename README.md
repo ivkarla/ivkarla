@@ -1,9 +1,7 @@
-# Karla Ivankovic
+## Karla Ivankovic
 
-**Data Scientist · Translational Computational Neuroscience**  
+### **Data Scientist · Translational Computational Neuroscience**  
 Hospital del Mar Research Institute, Barcelona
-
-🔗 [karlaivankovic.github.io](https://ivkarla.github.io) — portfolio & publications
 
 > Transforming high-dimensional physiological signals into clinically interpretable models;  
 > from EEG time-series to reproducible pipelines for epilepsy surgery decision support.
@@ -37,10 +35,23 @@ My focus is on reproducibility, robustness across centres, and accessibility.
 
 ### Tech
 
+**Languages & data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**ML & analysis**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Environment & tools**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -51,3 +62,5 @@ My focus is on reproducibility, robustness across centres, and accessibility.
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2252--6030-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2252-6030)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karlaivankovic-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karlaivankovic)
 [![Email](https://img.shields.io/badge/Email-karla.ivk65@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karla.ivk65@gmail.com)
+
+
