@@ -28,7 +28,7 @@ My focus is on reproducibility, robustness across centres, and accessibility.
 |------|-------|---------|
 | 2025 | [Connectivity changes & surgery outcome prediction](https://doi.org/10.1016/j.neuroimage.2024.120990) | *NeuroImage* |
 | 2025 | [xPEC: data-driven neural representation mapping](https://doi.org/10.1101/2025.11.18.688989) | *bioRxiv* |
-| 2024 | [Epilepsy surgery targets — systematic review](https://doi.org/10.3390/biomedicines12112597) | *Biomedicines* |
+| 2024 | [Quantitative iEEG biomarkers for epilepsy surgery — systematic review](https://doi.org/10.3390/biomedicines12112597) | *Biomedicines* |
 | 2025 | [PhD Thesis](http://hdl.handle.net/10803/694005) | Universitat Pompeu Fabra |
 
 ---
