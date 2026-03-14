@@ -1,6 +1,6 @@
-## Karla Ivankovic
+## Karla Ivankovic, PhD
 
-### **Data Scientist · Translational Computational Neuroscience**  
+### **Data Scientist · Translational Neuroscience**  
 Hospital del Mar Research Institute, Barcelona
 
 > Transforming high-dimensional physiological signals into clinically interpretable models;  
